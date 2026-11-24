@@ -83,7 +83,7 @@ if (true) {
 
 // TODO: Tente imprimir a variável 'descontoEspecial' aqui fora descomentando a linha abaixo:
 // console.log("Fora do bloco - Desconto:", descontoEspecial);
-console.log("Fora do bloco - Desconto:", descontoEspecial);
+//console.log("Fora do bloco - Desconto:", descontoEspecial);
 // Responda aqui: Qual erro apareceu no console?
 // Resposta: 
 
